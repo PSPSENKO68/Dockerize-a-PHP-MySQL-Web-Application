@@ -20,6 +20,6 @@ cd Dockerize-a-PHP-MySQL-Web-Application
 docker-compose build
 docker-compose up -d
 
-###Bước 5: Truy cập ứng dụng
+### Bước 5: Truy cập ứng dụng
 - Mở trình duyệt và truy cập vào địa chỉ: http://localhost:8080
   
